@@ -148,13 +148,13 @@ ScrollReveal({
 });
 
 //Target elements, and specify options to create reveal animations
-ScrollReveal().reveal('.home .info h2, .section-title-01, .section-title-02', { delay: 300, origin: 'left' });
-ScrollReveal().reveal('.home .info h3, .home .info p, .about-info .btn', { delay: 400, origin: 'right' });
-ScrollReveal().reveal('.home .info .btn', { delay: 500, origin: 'bottom' });
-ScrollReveal().reveal('.media-icons i, .contact-left li', { delay: 300, origin: 'left', interval: 100 });
-ScrollReveal().reveal('.home-img, .about-img', { delay: 300, origin: 'bottom' });
-ScrollReveal().reveal('.about .description .contact-right', { delay: 400, origin: 'right' });
-ScrollReveal().reveal('.about .professional-list li', { delay: 300, origin: 'right', interval: 100 });
-ScrollReveal().reveal('.skills-description, .services-description, .contact-card, client-swiper, .contact-left h2', { delay: 400, origin: 'left' });
-ScrollReveal().reveal('.experience-card, .service-card, .education, .portfolio .img-card', { delay: 600, origin: 'bottom', interval: 100 });
-ScrollReveal().reveal('.footer .group', { delay: 300, origin: 'top', interval: 100 });
+ScrollReveal().reveal('.home .info h2, .section-title-01, .section-title-02', { delay: 100, origin: 'left' });
+ScrollReveal().reveal('.home .info h3, .home .info p, .about-info .btn', { delay: 100, origin: 'right' });
+ScrollReveal().reveal('.home .info .btn', { delay: 100, origin: 'bottom' });
+ScrollReveal().reveal('.media-icons i, .contact-left li', { delay: 100, origin: 'left', interval: 100 });
+ScrollReveal().reveal('.home-img, .about-img', { delay: 100, origin: 'bottom' });
+ScrollReveal().reveal('.about .description .contact-right', { delay: 100, origin: 'right' });
+ScrollReveal().reveal('.about .professional-list li', { delay: 100, origin: 'right', interval: 100 });
+ScrollReveal().reveal('.skills-description, .services-description, .contact-card, client-swiper, .contact-left h2', { delay: 100, origin: 'left' });
+ScrollReveal().reveal('.experience-card, .service-card, .education, .portfolio .img-card', { delay: 100, origin: 'bottom', interval: 100 });
+ScrollReveal().reveal('.footer .group', { delay: 100, origin: 'top', interval: 100 });
